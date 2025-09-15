@@ -3,6 +3,7 @@ body {
     background:lightyellow;
     margin: 0px;
     font-family: "Story Script", sans-serif;
+    margin-bottom: 50px;
 }
 
 header{ 
@@ -44,6 +45,7 @@ img {
 .categoria {
     padding-left: 20px;
     padding-right: 20px;
+    margin-top: 50px;
 }
 
 .categoria-videos img {
@@ -54,5 +56,8 @@ img {
 .categoria-videos img:hover {
     opacity: 1.0;
     border: 3px solid lightgreen;
+}
 
+.categoria h2 {
+    color: lightsteelblue
 }
